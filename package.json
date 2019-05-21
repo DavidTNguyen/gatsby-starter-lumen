@@ -18,8 +18,8 @@
     "test:watch": "jest --watch --config ./jest/jest-config.js",
     "release": "standard-version"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "repository": "https://github.com/davidtnguyen/gatsby-starter-lumen",
+  "author": "David T. Nguyen <davidnguy@gmail.com>",
   "license": "MIT",
   "keywords": [
     "gatsby",
